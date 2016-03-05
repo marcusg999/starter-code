@@ -98,7 +98,7 @@ function render() {
 
     // Any updates to scene, camera, or objects go here
     // That is, this is where the animation happens!
-    cube.rotation.x += .003 // rotation vectors are in radians
+    cube.rotation.x += .013 // rotation vectors are in radians
     cube.rotation.y += .09 // rotation vectors are in radians
     cube.rotation.z += .003
     // camera.rotation.y +=0.01
