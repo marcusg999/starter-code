@@ -100,7 +100,7 @@ function render() {
     // That is, this is where the animation happens!
     cube.rotation.x += .023 // rotation vectors are in radians
     cube.rotation.y += .09 // rotation vectors are in radians
-    cube.rotation.z += .003
+    cube.rotation.z += .013
     // camera.rotation.y +=0.01
 
     // swirl the particles
