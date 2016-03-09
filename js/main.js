@@ -57,7 +57,7 @@ $(document).mousemove(function(event) {
 // particle attempt #2
 // optimized rendering
 // create the particle variables
-var particleCount = 900,
+var particleCount = 330,
     particles = new THREE.Geometry(),
     pMaterial = new THREE.PointsMaterial({
       //color: "#f0f",
